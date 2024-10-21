@@ -4,7 +4,7 @@
 
 # 187.TouristAttractionsPlayManagementSystem
 
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">187.旅游景区游玩管理系统</h1></p>
